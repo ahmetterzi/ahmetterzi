@@ -7,11 +7,10 @@ I'm a Software Test Engineer with a passion for developing automation frameworks
 
 🔭 I’m currently working on eBebek Practicum via Patika.dev.<br><br>👯 I’m looking to collaborate on automation test projects.<br><br>❓ Ask me about anything related to test automation technologies.<br><br>🌱 I’m currently learning JavaScript, Cypress and Appium.
 
-<br><br>
 
-<a href="https://github.com/ahmetterzi" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+
+<br>
+
 <a href="https://linkedin.com/in/ahmetterzi" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>   
