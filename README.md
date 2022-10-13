@@ -43,8 +43,6 @@ I'm a Software Test Engineer with a passion for developing automation frameworks
 </p>
 </br>
 
-<img src="github-snake-dark.svg" width="auto">
-
 ![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
