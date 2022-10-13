@@ -43,7 +43,7 @@ I'm a Software Test Engineer with a passion for developing automation frameworks
 </p>
 </br>
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake Light](github-contribution-grid-snake.gif#gh-light-mode-only)
 ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
 ---
