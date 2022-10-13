@@ -18,7 +18,7 @@ I'm a Software Test Engineer with a passion for developing automation frameworks
 <br/>  
 
 
-# 💻 Tech Stack:
+# 💻 Languages and Tools:
 
 <p align="left"> 
 
