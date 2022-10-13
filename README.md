@@ -43,8 +43,9 @@ I'm a Software Test Engineer with a passion for developing automation frameworks
 </p>
 </br>
 
+<img src="github-snake-dark.svg" width="auto">
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
 ---
