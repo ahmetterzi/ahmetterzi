@@ -1,13 +1,44 @@
 
-## Hey 👋, I'm Ahmet Terzi!  
+Hey 👋, I’m Ahmet Terzi!
 
-### Glad to see you here!  
-I'm a Software Test Engineer with a passion for developing automation frameworks for running tests faster and efficiently with 1 years of experience. I am productive, detail-oriented, fast and self-learning, I adapt easily to new technologies and environments, I have good analytical and communication skills. The team environment is the place that makes the greatest contribution to the development and sharing of one's experience. Working in a good team environment is one of my biggest motivations. I am productive, dedicated, and motivated person with history of meeting company goals, willingness to take on added responsibilities, and ability to work well under pressure. I am passionate about providing the best services, finding solutions and improving processes. <br><br><br> 
+Welcome to my GitHub!
 
+I’m a Software Test Automation Engineer with 3.5+ years of experience, ISTQB certified, passionate about building scalable automation frameworks that ensure faster, reliable, and maintainable test processes.
 
-🔭 I’m currently working on eBebek Practicum via Patika.dev.<br><br>👯 I’m looking to collaborate on automation test projects.<br><br>❓ Ask me about anything related to test automation technologies.<br><br>🌱 I’m currently learning JavaScript, Cypress and Appium.
+💡 I specialize in:
+	•	UI Test Automation with Selenium, Java, JUnit, TestNG, Cucumber
+	•	API Testing with RestAssured
+	•	Automation Framework Design (Page Object Model, OOP, reusable utilities)
+	•	CI/CD integration (GitLab pipelines, AWS EC2, Docker)
+	•	Parallel Execution and handling flaky tests with retry mechanisms
 
+⚡ Beyond the tools, I’m detail-oriented, adaptable, and team-driven. I believe a strong team environment is the best way to grow and share knowledge.
 
+🔭 Current Focus
+	•	Developing and maintaining automation frameworks for Simpra PMS (hotel management system)
+	•	Expanding test coverage with UI & API automation
+	•	Exploring AI-assisted testing (log analysis, flaky test detection, self-healing locators)
+
+👯 Collaboration
+
+I’m always open to collaborate on:
+	•	Test automation frameworks
+	•	API & UI test projects
+	•	CI/CD pipeline improvements
+
+🌱 Learning & Exploring
+	•	Mobile test automation with Appium
+	•	Modern test tools: Cypress, Playwright
+	•	Improving my DevOps skills (Dockerized test environments, advanced pipeline strategies)
+
+💬 Ask me about
+	•	Building automation frameworks from scratch
+	•	Debugging flaky Selenium tests
+	•	Test design, best practices, and how to scale automation in real projects
+
+⚡ Fun fact
+
+I enjoy traveling and exploring new cultures, I’m into fitness & nutrition, and at home I share my energy with Aybars, my lovely cat 🐾.
 
 <br>
 
